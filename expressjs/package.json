@@ -25,11 +25,11 @@
   },
   "homepage": "",
   "dependencies": {
-    "apidoc": "~0.13.1",
+    "apidoc": "~0.17.7",
     "async": "~1.4.2",
     "bcrypt": "~0.8.5",
     "body-parser": "~1.13.3",
-    "busboy": "~0.2.11",
+    "busboy": "~1.0.0",
     "cors": "~2.7.1",
     "debug": "~2.2.0",
     "emquery": "~1.0.2",
