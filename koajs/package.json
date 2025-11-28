@@ -44,7 +44,7 @@
     "mongoose": "~4.3.5",
     "mongoose-paginate": "~5.0.0",
     "streaming-json-stringify": "~3.1.0",
-    "validator": "~4.5.0"
+    "validator": "~13.15.22"
   },
   "devDependencies": {
     "apidoc": "~0.14.0"
